@@ -37,7 +37,7 @@ Me apasiona la programación, el aprendizaje constante y la creación de proyect
 
 - 📧 **Email:** velazquezfrancisco94@gmail.com  
 - 📱 **Teléfono:** +52 664 112 2802  
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/francisco-velazquez-/)  
+- 💼 **LinkedIn:** [linkedin.com/in/francisco-velazquez-]
 
 ---
 
