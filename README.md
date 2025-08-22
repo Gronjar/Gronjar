@@ -1,4 +1,4 @@
-# 👋 Hola, soy Francisco Velázquez  
+# 👋 Hola, soy Francisco Velazquez  
 
 Soy desarrollador en formación con experiencia en proyectos de **ciencia de datos**, **análisis de información** y **machine learning**.  
 Me apasiona la programación, el aprendizaje constante y la creación de proyectos que aporten valor. 🚀  
